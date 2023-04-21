@@ -3,7 +3,7 @@ capstone1
 
 The development of digital platforms and e-commerce has changed the way people shop for luxury products over the years, giving consumers more options. Online shopping has made it possible for customers to purchase luxury items from any location in the world, giving them access to a broader selection of goods and enhancing their shopping experience. Luxury firms are now developing immersive and customized shopping experiences for their clients, which has increased the experiential nature of luxury purchasing. This includes invitation-only gatherings, individualized assistance, and specially made goods, all of which improve the shopping experience and reinforce the emotional bond between the brand and the customer.
 
-For all of your luxury shopping, Club Stylish has everything you need in terms of clothing and accessories for men, women, and children.!
+For all of your luxury shopping, Club Stylish has everything you need in terms of clothing and accessories for men, women, and children!
 
 ![Template 1](https://user-images.githubusercontent.com/129992490/233662722-866725b8-9483-4e3a-b1e4-3475132b8c97.JPG)
 [Template 2](https://user-images.githubusercontent.com/129992490/233662245-e86ecb86-d041-47fd-bbdf-c3819ba76f00.JPG)
